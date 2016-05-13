@@ -1,5 +1,5 @@
 # 2. 进阶
-
+[//]: # (Version:1.0.0)
 - 个人技能
   - [如何保持活力](Personal-Skills/01-How to Stay Motivated.md)
   - [如何被广泛信任](Personal-Skills/02-How to be Widely Trusted.md)
@@ -24,6 +24,6 @@
 	- [如何判断一个软件是否太不成熟了](Judgment/03-How to Decide if Software is Too Immature.md)
 	- [如何决定购买还是构建](Judgment/04-How to Make a Buy vs Build Decision.md)
 	- [如何专业地成长](Judgment/05-How to Grow Professionally.md)
-	- [如何评估面试](Judgment/06-How to Evaluate Interviewees.md)
+	- [如何评估面试者](Judgment/06-How to Evaluate Interviewees.md)
 	- [如何知道何时实施昂贵的计算机科学](Judgment/07-How to Know When to Apply Fancy Computer Science.md)
 	- [如何与非工程师交谈](Judgment/08-How to Talk to Non-Engineers.md)
